@@ -15,3 +15,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaFreitasAlmeida&layout=demo)](https://github.com/BrunaFreitasAlmeida/github-readme-stats) <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/> <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunaFreitasAlmeida&show_icons=true&theme=dracula)
