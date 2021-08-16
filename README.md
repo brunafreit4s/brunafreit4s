@@ -1,5 +1,4 @@
-## :wave: Hi, I'm Bruna Freitas Almeida, Nice to meet you!
-  
+## Hi, I'm Bruna Freitas Almeida, Nice to meet you! <img align="right" alt="BrunaGif" height="150" width="150" src="https://share-cdn.picrew.me/shareImg/org/202108/338224_aKEZCSLq.png">  
 - :woman: <i><b>I’m Full-Stack Developer<br/>
 - :writing_hand: Currently learning a new System Language: Python; <br/>
 - :cake: I love sweets a lot; <br/>
@@ -20,7 +19,7 @@
 </div> 
 <hr>
 
-## :computer: My Skills:
+## :computer: My Skills: <img align="left" alt="BrunaGif" height="150" width="150" src="https://share-cdn.picrew.me/shareImg/org/202108/338224_upe8xCSE.png">
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bruna-MySql" height="30" width="40" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png">
@@ -32,6 +31,8 @@
   <img align="center" alt="Bruna-Bootstrap" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/bootstrap_plain_wordmark_logo_icon_146620.png">
   <img align="center" alt="Bruna-Java" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/java_original_wordmark_logo_icon_146459.png">
   <img align="center" alt="Bruna-Git" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/git_original_wordmark_logo_icon_146510.png">
+  
+  
 </div>
 
 <div>   
