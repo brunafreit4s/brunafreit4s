@@ -31,11 +31,9 @@
   <img align="center" alt="Bruna-Bootstrap" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/bootstrap_plain_wordmark_logo_icon_146620.png">
   <img align="center" alt="Bruna-Java" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/java_original_wordmark_logo_icon_146459.png">
   <img align="center" alt="Bruna-Git" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/git_original_wordmark_logo_icon_146510.png">
-  
-  
 </div>
 
 <div>   
   
-  ![Snake animation](https://github.com/brunafreit4s/brunafreit4s/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/brunafreit4s/brunafreit4s/blob/output/github-contribution-grid-snake.svg)
 </div>
