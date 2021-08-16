@@ -4,7 +4,7 @@
 - 🍰 I love sweets a lot; <br/>
 - :notes: Music is my determination; <br/>
 - :older_woman: :older_man: My parents are my inspiration; <br/>
-- :computer: My skills are: C#; ASP.Net; VB.Net; JavaScript; and Sql Server.<br/>
+- :computer: My skills are: C#; ASP.Net; VB.Net; VB6; JavaScript; HTML5; CSS3; MySql and Sql Server.<br/>
 - :speech_balloon: How to reach me: https://www.linkedin.com/in/bruna-freitas-almeida-a14b01182/ </i></b>
 <h2>
   <h2>About my GitHub!</h2>
@@ -14,6 +14,9 @@
 <hr>
 
 
-<img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/> <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
+  
+  
+  ![snake animation](https://github.com/BrunaFreitasAlmeida/BrunaFreitasAlmeida/blob/output/github-contribution-grid-snake.svg)
 
 
