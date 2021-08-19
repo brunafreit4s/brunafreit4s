@@ -7,7 +7,7 @@
 - :green_book: I love read Mangá, It's story board of Japan; <br/>
 - :soccer: :green_heart: I cheer for a Brazilian soccer team called Sport Society Palmeiras; <br/>
 - :older_woman: :older_man: My parents are my inspiration; <br/>
-- :computer: My skills are: C#; ASP.Net; VB.Net; VB6; JavaScript; HTML5; CSS3; MySql and Sql Server.<br/>
+- :computer: My skills are: C#; ASP.Net; VB.Net; VB6; JavaScript; HTML5; CSS3; and Sql.<br/>
 - :speech_balloon: How to know me better:
   <br/>
   <br/>
@@ -26,12 +26,12 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bruna-MySql" height="30" width="40" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png">
-  <img align="center" alt="Bruna-JQuery" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/jquery_original_wordmark_logo_icon_146447.png">
+  <img align="center" alt="Bruna-JQuery" height="50" width="50" src="https://logodix.com/logo/941228.png">  
   <img align="center" alt="Bruna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bruna-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bruna-Csharp" height="30" width="30" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png">
-  <img align="center" alt="Bruna-Bootstrap" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/bootstrap_plain_wordmark_logo_icon_146620.png">
+  <img align="center" alt="Bruna-Bootstrap" height="30" width="30" src="https://img.icons8.com/color/452/bootstrap.png">
   <img align="center" alt="Bruna-Java" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/java_original_wordmark_logo_icon_146459.png">
   <img align="center" alt="Bruna-Git" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/git_original_wordmark_logo_icon_146510.png">
 </div>
