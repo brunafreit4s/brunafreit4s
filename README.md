@@ -22,7 +22,7 @@
 </div> 
 <hr>
 
-## :computer: My Skills: <img align="left" alt="BrunaGif" height="150" width="150" src="https://share-cdn.picrew.me/shareImg/org/202108/338224_upe8xCSE.png">
+## :computer: My Learnings: <img align="left" alt="BrunaGif" height="150" width="150" src="https://share-cdn.picrew.me/shareImg/org/202108/338224_upe8xCSE.png">
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bruna-MySql" height="30" width="40" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png">
