@@ -23,15 +23,17 @@
 
 ## :computer: My Learnings: <img align="left" alt="BrunaGif" height="150" width="150" src="https://share-cdn.picrew.me/shareImg/org/202108/338224_upe8xCSE.png">
 <div style="display: inline_block"><br>
-  <a href="https://github.com/brunafreit4s">
-  <img align="rigth" alt="Bruna-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
-  <img align="rigth" alt="Bruna-MySql" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png">
-  <img align="rigth" alt="Bruna-JQuery" height="40" width="50" src="https://logodix.com/logo/941228.png">  
-  <img align="rigth" alt="Bruna-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="rigth" alt="Bruna-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="rigth" alt="Bruna-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="rigth" alt="Bruna-Csharp" height="40" width="40" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png">
-  <img align="rigth" alt="Bruna-Bootstrap" height="40" width="40" src="https://img.icons8.com/color/452/bootstrap.png">
-  <img align="rigth" alt="Bruna-Java" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/java_original_wordmark_logo_icon_146459.png">
-  <img align="rigth" alt="Bruna-Git" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/git_original_wordmark_logo_icon_146510.png">
+  <a href="https://github.com/brunafreit4s">    
+    <img align="rigth" alt="Bruna-HTML" height="40" width="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png">  
+    <img align="rigth" alt="Bruna-CSS" height="40" width="40" src="https://img.icons8.com/color/48/000000/css3.png">  
+    <img align="rigth" alt="Bruna-Js" height="40" width="40" src="https://img.icons8.com/color/48/000000/javascript--v1.png">  
+    <img align="rigth" alt="Bruna-Bootstrap" height="40" width="40" src="https://img.icons8.com/color/452/bootstrap.png">  
+    <img align="rigth" alt="Bruna-JQuery" height="40" width="40" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-28.jpg">    
+    <img align="rigth" alt="Bruna-Csharp" height="40" width="40" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png">  
+    <img align="rigth" alt="Bruna-Python" height="40" width="40" src="https://img.icons8.com/color/48/000000/python--v1.png">      
+    <img align="rigth" alt="Bruna-Java" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/java_original_wordmark_logo_icon_146459.png">  
+    <img align="rigth" alt="Bruna-Git" height="40" width="40" src="https://img.icons8.com/color/48/000000/git.png">  
+    <img align="rigth" alt="Bruna-MySql" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png">
+    <img align="rigth" alt="Bruna-MySql" height="40" width="40" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png">
+    <img align="rigth" alt="Bruna-MySql" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png">      
 </div>
