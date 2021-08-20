@@ -1,5 +1,5 @@
 ## Hello, My name's Bruna Freitas Almeida, Nice to meet you! <img align="right" alt="BrunaGif" height="150" width="150" src="https://share-cdn.picrew.me/shareImg/org/202108/338224_aKEZCSLq.png">  
-- :woman: <i><b>I’m Full-Stack Developer<br/>
+- :woman: <i><b>I’m Full-Stack Developer; <br/>
 - :writing_hand: Currently learning a new System Language: Python; <br/>
 - :cake: I love sweets a lot; <br/>
 - :dog: I have a dog, it's names SAM; <br/>
@@ -24,14 +24,14 @@
 ## :computer: My Learnings: <img align="left" alt="BrunaGif" height="150" width="150" src="https://share-cdn.picrew.me/shareImg/org/202108/338224_upe8xCSE.png">
 <div style="display: inline_block"><br>
   <a href="https://github.com/brunafreit4s">
-  <img align="rigth" alt="Bruna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
-  <img align="rigth" alt="Bruna-MySql" height="30" width="40" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png">
-  <img align="rigth" alt="Bruna-JQuery" height="30" width="40" src="https://logodix.com/logo/941228.png">  
-  <img align="rigth" alt="Bruna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="rigth" alt="Bruna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="rigth" alt="Bruna-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="rigth" alt="Bruna-Csharp" height="30" width="30" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png">
-  <img align="rigth" alt="Bruna-Bootstrap" height="30" width="30" src="https://img.icons8.com/color/452/bootstrap.png">
+  <img align="rigth" alt="Bruna-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
+  <img align="rigth" alt="Bruna-MySql" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png">
+  <img align="rigth" alt="Bruna-JQuery" height="40" width="50" src="https://logodix.com/logo/941228.png">  
+  <img align="rigth" alt="Bruna-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="rigth" alt="Bruna-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="rigth" alt="Bruna-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="rigth" alt="Bruna-Csharp" height="40" width="40" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png">
+  <img align="rigth" alt="Bruna-Bootstrap" height="40" width="40" src="https://img.icons8.com/color/452/bootstrap.png">
   <img align="rigth" alt="Bruna-Java" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/java_original_wordmark_logo_icon_146459.png">
   <img align="rigth" alt="Bruna-Git" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/git_original_wordmark_logo_icon_146510.png">
 </div>
