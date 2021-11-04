@@ -1,5 +1,5 @@
 ## Hello, My name's Bruna Freitas Almeida, Nice to meet you! <img align="right" alt="BrunaGif" height="150" width="150" src="https://share-cdn.picrew.me/shareImg/org/202110/338224_cSfDs63q.png">  
-- :woman: <i><b>I’m Full-Stack Developer; <br/>
+- :woman: <i><b>I’m Full-Stack Software Developer Jr; <br/>
 - :writing_hand: I'm currently expanding my learning in a new Systems Language: Python 3; <br/>
 - :cake: I love sweets a lot; <br/>
 - :dog: I have a dog, it's names SAM; <br/>
