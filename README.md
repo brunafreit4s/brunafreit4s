@@ -1,7 +1,7 @@
 ## Hello, My name's Bruna Freitas Almeida, Nice to meet you! <img align="right" alt="BrunaGif" height="150" width="150" src="https://share-cdn.picrew.me/shareImg/org/202110/338224_cSfDs63q.png">  
-- :woman: <i><b>I’m Full-Stack Software Developer Jr; <br/>
-- :writing_hand: I'm currently expanding my learning in a new Systems Language: Python 3; <br/>
-- :cake: I love sweets a lot; <br/>
+- :woman: <i><b>I’m Full-Stack Software Developer .Net Jr; <br/>
+- :woman_student: Graduated in Information Technology; <br/>
+- :cake: I love sweets; <br/>
 - :dog: I have a dog, it's names SAM; <br/>
 - :green_book: I love read "Mangá", It's about story board of Japan; <br/>
 - :soccer: :green_heart: I cheer for a Brazilian soccer team called Sport Society Palmeiras; <br/>
