@@ -1,4 +1,4 @@
-## Hello, My name's Bruna Freitas Almeida, Nice to meet you! <img align="right" alt="BrunaGif" height="250" width="250" src="https://share-cdn.picrew.me/shareImg/org/202202/376622_VfXCVFGD.png">  
+## Hello, My name's Bruna Freitas Almeida, Nice to meet you! <img align="right" alt="BrunaGif" height="150" width="150" src="https://share-cdn.picrew.me/shareImg/org/202202/376622_VfXCVFGD.png">  
 - :woman: <i><b>I’m Full-Stack Software Developer .Net Jr; <br/>
 - :woman_student: Graduated in Information Technology; <br/>
 - :cake: I love sweets; <br/>
@@ -20,7 +20,7 @@
 </div> 
 <hr>
 
-## :computer: My Learnings: <img align="left" alt="BrunaGif" height="250" width="250" src="https://share-cdn.picrew.me/shareImg/org/202202/376622_92tmOViA.png">
+## :computer: My Learnings: <img align="left" alt="BrunaGif" height="150" width="150" src="https://share-cdn.picrew.me/shareImg/org/202202/376622_92tmOViA.png">
 <div style="display: inline_block"><br>
   <a href="https://github.com/brunafreit4s">    
     <img align="rigth" alt="Bruna-HTML" height="40" width="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png">  
