@@ -1,4 +1,4 @@
-## Hello, My name's Bruna Freitas Almeida, Nice to meet you! <img align="right" alt="BrunaGif" height="150" width="150" src="https://share-cdn.picrew.me/shareImg/org/202202/376622_VfXCVFGD.png">  
+## Hello, My name's Bruna Freitas Almeida, Nice to meet you!  
 - :woman: <i><b>I’m Systems Analyst; <br/>
 - :woman_student: Graduated in Information Technology; <br/>
 - :cake: I love sweets; <br/>
@@ -20,7 +20,7 @@
 </div> 
 <hr>
 
-## :computer: My Learnings: <img align="left" alt="BrunaGif" height="150" width="150" src="https://share-cdn.picrew.me/shareImg/org/202202/376622_92tmOViA.png">
+## :computer: My Learnings:
 <div style="display: inline_block"><br>
   <a href="https://github.com/brunafreit4s">    
     <img align="rigth" alt="Bruna-HTML" height="40" width="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png">  
@@ -33,6 +33,5 @@
     <img align="rigth" alt="Bruna-Java" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/java_original_wordmark_logo_icon_146459.png">  
     <img align="rigth" alt="Bruna-Git" height="40" width="40" src="https://img.icons8.com/color/48/000000/git.png">  
     <img align="rigth" alt="Bruna-MySql" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png">
-    <img align="rigth" alt="Bruna-MySql" height="40" width="40" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png">
-    <img align="rigth" alt="Bruna-MySql" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png">      
+    <img align="rigth" alt="Bruna-MySql" height="40" width="40" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png">    
 </div>
