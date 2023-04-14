@@ -7,7 +7,7 @@
   - :green_book: I love read "Mangá", It's about story board of Japan; <br/>
   - :soccer: :green_heart: I cheer for a Brazilian soccer team called Sport Society Palmeiras; <br/>
   - :older_woman: :older_man: My parents are my inspiration; <br/>
-  - :computer: My skills are: C#; Web API; Java Script; Bootstrap; JQuery; ASP.Net; HTML5; CSS3; and Sql.<br/>
+  - :computer: My skills are: .Net Framework, .Net Core, API Restful and Sql.<br/>
   - :speech_balloon: How to know me better:
 </p>
 
