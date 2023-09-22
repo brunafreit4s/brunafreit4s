@@ -34,7 +34,7 @@
 
 <a href="https://github.com/brunafreit4s">
     <img align="rigth" alt="Bruna-CSS" height="40" width="40" src="https://github.com/brunafreit4s/brunafreit4s/assets/32462617/ae87ca4b-b06a-46bc-a5e6-b44b7e5607d6">  
-  <img align="rigth" alt="Bruna-CSS" height="40" width="40" src="https://github.com/brunafreit4s/brunafreit4s/assets/32462617/0036be34-1d3a-4aa7-beef-4bc47afe6d56">  
+    <img align="rigth" alt="Bruna-CSS" height="40" width="40" src="https://github.com/brunafreit4s/brunafreit4s/assets/32462617/0036be34-1d3a-4aa7-beef-4bc47afe6d56">  
     <img align="rigth" alt="Bruna-Bootstrap" height="40" width="40" src="https://img.icons8.com/color/452/bootstrap.png">  
     <img align="rigth" alt="Bruna-Js" height="40" width="40" src="https://img.icons8.com/color/48/000000/javascript--v1.png">  
     <img align="rigth" alt="Bruna-JQuery" height="40" width="40" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-28.jpg">    
@@ -42,5 +42,6 @@
     <img align="rigth" alt="Bruna-Python" height="40" width="40" src="https://img.icons8.com/color/48/000000/python--v1.png">
     <img align="rigth" alt="Bruna-MySql" height="40" width="40" src="https://github.com/brunafreit4s/brunafreit4s/assets/32462617/e83ef4ce-d1ff-4b80-90f8-801236299fca">
     <img align="rigth" alt="Bruna-Sql" height="40" width="40" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png">    
-    <img align="rigth" alt="Bruna-Git" height="40" width="40" src="https://img.icons8.com/color/48/000000/git.png">  
+    <img align="rigth" alt="Bruna-Git" height="40" width="40" src="https://img.icons8.com/color/48/000000/git.png">
+</a>
 </div>
