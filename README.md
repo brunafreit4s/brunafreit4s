@@ -1,22 +1,19 @@
 <hr>
-<h1>
-  Hello, My name's Bruna, Nice to meet you!
-  <br>
-</h1>
 
-<h6>
+<h1>Hello, My name's Bruna, Nice to meet you!</h1>
+
+<h6>  
   
   * :woman: I’m Systems Analyst; 
   * :woman_student: Graduated in Information Technology;
-  * :cake: I love sweets; <br/>
-  * :dog: I have a dog, it's names SAM; <br/>
-  * :green_book: I love read "Mangá", It's about story board of Japan; <br/>
-  * :soccer: :green_heart: I cheer for a Brazilian soccer team called Sport Society Palmeiras; <br/>
-  * :older_woman: :older_man: My parents are my inspiration; <br/>
-  * :computer: My skills are: .Net Framework, .Net Core, API Restful and Sql. <br/>
-  * :speech_balloon: How to know me better: <br/>
+  * :cake: I love sweets;
+  * :dog: I have a dog, it's names SAM; 
+  * :green_book: I love read "Mangá", It's about story board of Japan; 
+  * :soccer: :green_heart: I cheer for a Brazilian soccer team called Sport Society Palmeiras; 
+  * :older_woman: :older_man: My parents are my inspiration; 
+  * :computer: My skills are: .Net Framework, .Net Core, API Restful and Sql. 
+  * :speech_balloon: How to know me better:
   <p><a href="https://www.linkedin.com/in/bruna-freitas-almeida-a14b01182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></p>
-  
 </h6>
 
 <hr>
@@ -31,8 +28,7 @@
 <h3>:computer: My Learnings:</h3>
 
 <div style="display: inline_block">
-
-<a href="https://github.com/brunafreit4s">
+  <a href="https://github.com/brunafreit4s">
     <img align="rigth" alt="Bruna-CSS" height="40" width="40" src="https://github.com/brunafreit4s/brunafreit4s/assets/32462617/ae87ca4b-b06a-46bc-a5e6-b44b7e5607d6">  
     <img align="rigth" alt="Bruna-CSS" height="40" width="40" src="https://github.com/brunafreit4s/brunafreit4s/assets/32462617/0036be34-1d3a-4aa7-beef-4bc47afe6d56">  
     <img align="rigth" alt="Bruna-Bootstrap" height="40" width="40" src="https://img.icons8.com/color/452/bootstrap.png">  
@@ -43,5 +39,5 @@
     <img align="rigth" alt="Bruna-MySql" height="40" width="40" src="https://github.com/brunafreit4s/brunafreit4s/assets/32462617/e83ef4ce-d1ff-4b80-90f8-801236299fca">
     <img align="rigth" alt="Bruna-Sql" height="40" width="40" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png">    
     <img align="rigth" alt="Bruna-Git" height="40" width="40" src="https://img.icons8.com/color/48/000000/git.png">
-</a>
+  </a>
 </div>
