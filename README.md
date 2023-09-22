@@ -15,7 +15,7 @@
   * :older_woman: :older_man: My parents are my inspiration; <br/>
   * :computer: My skills are: .Net Framework, .Net Core, API Restful and Sql. <br/>
   * :speech_balloon: How to know me better: <br/>
-  <p><a href="https://www.linkedin.com/in/bruna-freitas-almeida-a14b01182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p>
+  <p><a href="https://www.linkedin.com/in/bruna-freitas-almeida-a14b01182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></p>
   
 </h6>
 
