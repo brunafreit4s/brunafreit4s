@@ -24,8 +24,8 @@
 <h3>:book: About my GitHub:</h3>
 <hr>
 <div align="left">
-  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=brunafreit4s&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunafreit4s&layout=compact&langs_count=10&theme=radical"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=brunafreit4s&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunafreit4s&layout=compact&langs_count=10&theme=radical"/>
 </div> 
 
 
