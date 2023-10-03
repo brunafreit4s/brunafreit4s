@@ -1,33 +1,38 @@
 <hr>
+<div align="center"> 
+  <div align="left">
+    
+  ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=6000&pause=2000&color=E60000&width=435&lines=Hello,+My+name's+Bruna!;Nice+to+meet+you!)
+  <img align="right" height="250em" width="250em" alt="Bruna-CSS" src="https://github.com/brunafreit4s/brunafreit4s/assets/32462617/0a5f85ea-7462-45f1-aad0-830e9ac0f401"> 
+  </div>  
+</div>
+<hr>
 
-<h1>Hello, My name's Bruna, Nice to meet you!</h1>
-
-<h6>  
-  
-  * :woman: I’m Systems Analyst; 
-  * :woman_student: Graduated in Information Technology;
-  * :cake: I love sweets;
-  * :dog: I have a dog, it's names SAM; 
-  * :green_book: I love read "Mangá", It's about story board of Japan; 
-  * :soccer: :green_heart: I cheer for a Brazilian soccer team called Sport Society Palmeiras; 
-  * :older_woman: :older_man: My parents are my inspiration; 
-  * :computer: My skills are: .Net Framework, .Net Core, API Restful and Sql. 
-  * :speech_balloon: How to know me better:
-  <p><a href="https://www.linkedin.com/in/bruna-freitas-almeida-a14b01182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></p>
-</h6>
+:woman: I’m Systems Analyst; <br/>
+:woman_student: Graduated in Information Technology; <br/>
+:cake: I love sweets; <br/>
+:dog: I have a dog, it's names SAM; <br/>
+:green_book: I love read "Mangá", It's about story board of Japan; <br/>
+:soccer: :green_heart: I cheer for a Brazilian soccer team called Sport Society Palmeiras; <br/>
+:older_woman: :older_man: My parents are my inspiration; <br/>
+:computer: My skills are: .Net Framework, .Net Core, API Restful and Sql. <br/>
+:speech_balloon: How to know me better:
+<p><a href="https://www.linkedin.com/in/bruna-freitas-almeida-a14b01182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></p>
 
 <hr>
 
+<img align="left" height="250em" width="250em" alt="Bruna-CSS" height="40" width="40" src="https://github.com/brunafreit4s/brunafreit4s/assets/32462617/eb6d2891-a0ff-4115-8543-ce5cc8f378eb"> 
 <h3>:book: About my GitHub:</h3>
+<hr>
 <div>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=brunafreit4s&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunafreit4s&layout=compact&langs_count=7&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunafreit4s&layout=compact&langs_count=10&theme=radical"/>
 </div> 
-<hr>
 
+<hr>
 <h3>:computer: My Learnings:</h3>
 
-<div style="display: inline_block">
+<div>
   <a href="https://github.com/brunafreit4s">
     <img align="rigth" alt="Bruna-CSS" height="40" width="40" src="https://github.com/brunafreit4s/brunafreit4s/assets/32462617/ae87ca4b-b06a-46bc-a5e6-b44b7e5607d6">  
     <img align="rigth" alt="Bruna-CSS" height="40" width="40" src="https://github.com/brunafreit4s/brunafreit4s/assets/32462617/0036be34-1d3a-4aa7-beef-4bc47afe6d56">  
@@ -41,3 +46,9 @@
     <img align="rigth" alt="Bruna-Git" height="40" width="40" src="https://img.icons8.com/color/48/000000/git.png">
   </a>
 </div>
+
+<hr>
+<div align="center"> 
+
+  ![trophy](https://github-profile-trophy.vercel.app/?username=brunafreit4s&theme=radical)
+</div
