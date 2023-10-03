@@ -21,18 +21,19 @@
 
 <hr>
 
-<img align="left" height="250em" width="250em" alt="Bruna-CSS" height="40" width="40" src="https://github.com/brunafreit4s/brunafreit4s/assets/32462617/eb6d2891-a0ff-4115-8543-ce5cc8f378eb"> 
 <h3>:book: About my GitHub:</h3>
 <hr>
-<div>
+<div align="left">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=brunafreit4s&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunafreit4s&layout=compact&langs_count=10&theme=radical"/>
 </div> 
 
-<hr>
-<h3>:computer: My Learnings:</h3>
 
 <div>
+  <hr>
+  <img align="left" height="250em" width="250em" alt="Bruna-CSS" height="40" width="40" src="https://github.com/brunafreit4s/brunafreit4s/assets/32462617/eb6d2891-a0ff-4115-8543-ce5cc8f378eb"> 
+  <h3>:computer: My Learnings:</h3>
+  <hr>
   <a href="https://github.com/brunafreit4s">
     <img align="rigth" alt="Bruna-CSS" height="40" width="40" src="https://github.com/brunafreit4s/brunafreit4s/assets/32462617/ae87ca4b-b06a-46bc-a5e6-b44b7e5607d6">  
     <img align="rigth" alt="Bruna-CSS" height="40" width="40" src="https://github.com/brunafreit4s/brunafreit4s/assets/32462617/0036be34-1d3a-4aa7-beef-4bc47afe6d56">  
@@ -47,8 +48,14 @@
   </a>
 </div>
 
-<hr>
-<div align="center"> 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
+<div align="center"> 
+  <hr/>
+  
   ![trophy](https://github-profile-trophy.vercel.app/?username=brunafreit4s&theme=radical)
 </div
