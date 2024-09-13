@@ -2,9 +2,8 @@
 <div align="center"> 
   <div align="left">
     
-  ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=6000&pause=2000&color=E60000&width=435&lines=Hello,+My+name's+Bruna!;Nice+to+meet+you!)
+  ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=6000&pause=2000&color=E60000&width=400&lines=Hello,+My+name's+Bruna!;Nice+to+meet+you!)
   <img align="right" height="250em" width="250em" alt="Bruna-CSS" src="https://github.com/brunafreit4s/brunafreit4s/assets/32462617/0a5f85ea-7462-45f1-aad0-830e9ac0f401"/> 
-  <br/>  
   </div>  
 </div>
 <hr/>
