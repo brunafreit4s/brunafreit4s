@@ -1,30 +1,43 @@
-<hr/>
-<div align="center"> 
-  <div align="left">
-    
-  ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=6000&pause=2000&color=E60000&width=400&lines=Hello,+My+name's+Bruna!;Nice+to+meet+you!)
-  <img align="right" height="250em" width="250em" alt="Bruna-CSS" src="https://github.com/brunafreit4s/brunafreit4s/assets/32462617/0a5f85ea-7462-45f1-aad0-830e9ac0f401"/> 
-  </div>  
-</div>
-<hr/>
-
-:woman: I’m Systems Analyst; <br/>
-:woman_student: Graduated in Information Technology; <br/>
-:cake: I love sweets; <br/>
-:dog: I have a dog, it's names SAM; <br/>
-:green_book: I love read "Mangá", It's about story board of Japan; <br/>
-:soccer: :green_heart: I cheer for a Brazilian soccer team called Sport Society Palmeiras; <br/>
-:older_woman: :older_man: My parents are my inspiration; <br/>
-:computer: My skills are: .Net Framework, .Net Core, API Restful and Sql. <br/>
-
-<p>
-  <h4>How to know me better:</h4>
-  <a href="https://www.linkedin.com/in/bruna-freitas-almeida-a14b01182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+<h1 align="left">Bruna Freitas Almeida</h1>
+<p align="left"><h4>Analista Desenvolvedora .Net</h4></p>
+<p align="left">
+<img src="https://img.shields.io/badge/@brunafreit4s-FA0005?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/brunafreit4s" />
+<img src="https://img.shields.io/badge/Bruna_Freitas-FA0005?style=for-the-badge&logo=buymeacoffee&logoColor=white&link=https://www.linkedin.com/in/bruna-freitas-almeida-a14b01182/" />
+<img src="https://img.shields.io/badge/@brunafreit4s-FA0005?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/brunafreit4s/" />
 </p>
+
+<div align="left">
+  <h2>Informações</h2>
+  <ul dir="auto">
+    <li><strong>Idade</strong>: 31;</li>
+    <li><strong>Moro em</strong>: São Paulo - SP, Brasil;</li>
+    <li><strong>Stack</strong>: .Net Framework - .Net Core - API Restful - SQL;</li>
+    <li><strong>Aprendendo</strong>: Docker Compose e Jenkis;</li>
+    <li><strong>Formação</strong>: Graduação completa na FATEC em Gestão de Projetos.</li>
+  </ul>
+
+  <h2>Languages and Tools:</h2>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />  
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/sqlserver-FBBA00?style=for-the-badge&logo=dotnet&logoColor=black" />
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/elastic-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
+</div>
 
 <div>
   <hr/>
-  <h3> More about my GitHub:</h3>
+  <h3>Meu GitHub:</h3>
   <hr/>
 </div>
 
@@ -32,35 +45,7 @@
   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=brunafreit4s&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunafreit4s&layout=compact&langs_count=10&theme=radical"/>
 </div>
-
-<div>
-  <hr/>
-  <img align="left" height="250em" width="250em" alt="Bruna-CSS" height="40" width="40" src="https://github.com/brunafreit4s/brunafreit4s/assets/32462617/eb6d2891-a0ff-4115-8543-ce5cc8f378eb"/> 
-  <h3> My Learnings:</h3>
-  <hr/>
-  <a href="https://github.com/brunafreit4s">
-    <img align="rigth" alt="Bruna-CSS" height="40" width="40" src="https://github.com/brunafreit4s/brunafreit4s/assets/32462617/ae87ca4b-b06a-46bc-a5e6-b44b7e5607d6"/>  
-    <img align="rigth" alt="Bruna-CSS" height="40" width="40" src="https://github.com/brunafreit4s/brunafreit4s/assets/32462617/0036be34-1d3a-4aa7-beef-4bc47afe6d56"/>  
-    <img align="rigth" alt="Bruna-Bootstrap" height="40" width="40" src="https://img.icons8.com/color/452/bootstrap.png"/>  
-    <img align="rigth" alt="Bruna-Js" height="40" width="40" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>  
-    <img align="rigth" alt="Bruna-JQuery" height="40" width="40" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-28.jpg">    
-    <img align="rigth" alt="Bruna-Csharp" height="40" width="40" src="https://github.com/brunafreit4s/brunafreit4s/assets/32462617/62ad8f87-d92b-47b1-b3cb-4f7282b9f061"/>  
-    <img align="rigth" alt="Bruna-Python" height="40" width="40" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-    <img align="rigth" alt="Bruna-MySql" height="40" width="40" src="https://github.com/brunafreit4s/brunafreit4s/assets/32462617/e83ef4ce-d1ff-4b80-90f8-801236299fca"/>
-    <img align="rigth" alt="Bruna-Sql" height="40" width="40" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>    
-    <img align="rigth" alt="Bruna-Git" height="40" width="40" src="https://img.icons8.com/color/48/000000/git.png"/>
-  </a>
-</div>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<div align="center"> 
+<div align="left"> 
   <hr/>
   
   ![trophy](https://github-profile-trophy.vercel.app/?username=brunafreit4s&theme=radical)
