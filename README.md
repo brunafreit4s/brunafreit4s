@@ -13,7 +13,7 @@
     <li><strong>Moro em</strong>: São Paulo - SP, Brasil;</li>
     <li><strong>Stack</strong>: .Net Framework - .Net Core - API Restful - SQL;</li>
     <li><strong>Aprendendo</strong>: Docker Compose e Jenkis;</li>
-    <li><strong>Formação</strong>: Graduação completa na FATEC em Gestão de Projetos.</li>
+    <li><strong>Formação</strong>: Graduação completa na FATEC em Gestão da Tecnologia da Informação.</li>
   </ul>
 
   <h2>Languages and Tools:</h2>
