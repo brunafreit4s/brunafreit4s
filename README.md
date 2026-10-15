@@ -9,10 +9,10 @@
 <div align="left">
   <h2>Informações</h2>
   <ul dir="auto">
-    <li><strong>Idade</strong>: 31;</li>
+    <li><strong>Idade</strong>: 32;</li>
     <li><strong>Moro em</strong>: São Paulo - SP, Brasil;</li>
     <li><strong>Stack</strong>: .Net Framework - .Net Core - API Restful - SQL;</li>
-    <li><strong>Aprendendo</strong>: Docker Compose e Jenkis;</li>
+    <li><strong>Aprendendo</strong>: Java Quarkus e Camel;</li>
     <li><strong>Formação</strong>: Graduação completa na FATEC em Gestão da Tecnologia da Informação.</li>
   </ul>
 
